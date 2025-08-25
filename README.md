@@ -1,2 +1,0 @@
-# MTT040-PD-ConvNN
-
